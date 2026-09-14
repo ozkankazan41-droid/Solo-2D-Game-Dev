@@ -1,4 +1,4 @@
-![Dungeon Survivors](screenshots/gameplay.png)
+![Dungeon Survivors](IMG_3902)
 
 # Dungeon Survivors
 
