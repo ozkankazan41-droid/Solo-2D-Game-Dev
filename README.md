@@ -1,6 +1,4 @@
-<video controls autoplay muted loop playsinline width="100%">
-  <source src="github.mp4" type="video/mp4" />
-</video>
+[![Dungeon Survivors - Gameplay Preview](IMG_3902.jpeg)](https://github.com/ozkankazan41-droid/Solo-2D-Game-Dev/raw/main/github.mp4)
 
 # Dungeon Survivors
 
