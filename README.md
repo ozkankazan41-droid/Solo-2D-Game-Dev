@@ -1,4 +1,6 @@
-![Dungeon Survivors](Ghub.MOV)
+<video controls autoplay muted loop playsinline width="100%">
+  <source src="Ghub.MOV" type="video/quicktime" />
+</video>
 
 # Dungeon Survivors
 
