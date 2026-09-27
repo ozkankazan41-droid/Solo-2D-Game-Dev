@@ -1,5 +1,5 @@
 <video controls autoplay muted loop playsinline width="100%">
-  <source src="Ghub.MOV" type="video/quicktime" />
+  <source src="github.mp4" type="video/mp4" />
 </video>
 
 # Dungeon Survivors
