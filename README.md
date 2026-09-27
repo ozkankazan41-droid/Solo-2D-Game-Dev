@@ -1,4 +1,6 @@
-[![Dungeon Survivors - Gameplay Preview](IMG_3902.jpeg)](https://github.com/ozkankazan41-droid/Solo-2D-Game-Dev/raw/main/github.mp4)
+<a href="https://github.com/ozkankazan41-droid/Solo-2D-Game-Dev/raw/main/github.mp4">
+  <img src="https://github.com/ozkankazan41-droid/Solo-2D-Game-Dev/raw/main/IMG_3902.jpeg" alt="Dungeon Survivors gameplay preview" width="100%" />
+</a>
 
 # Dungeon Survivors
 
